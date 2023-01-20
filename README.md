@@ -1,3 +1,7 @@
+# UPDATED: 20/01/2023
+
+#### COMPLETED AND TESTED OK ####
+
 # picDownloaderInstagram
 
 Simple scripts for downloading users public images and post info.
