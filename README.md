@@ -2,7 +2,7 @@
 
 #### COMPLETED AND TESTED OK ####
 
-# picDownloaderInstagram
+# PostDownloaderInstagram
 
 Simple scripts for downloading users public images and post info.
 
