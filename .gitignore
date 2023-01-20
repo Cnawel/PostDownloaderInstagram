@@ -1,1 +1,8 @@
+#FOLDERS
+/env/
+/env/*
+/cervezacamus/
+
+# CRED
 gitdata.txt
+requirements.txt
