@@ -1,17 +1,17 @@
-# PostDownloaderInstagram
+## PostDownloaderInstagram
 
-## UPDATED: 20/01/2023
+### UPDATED: 20/01/2023
 
-## COMPLETED AND TESTED OK ####
+COMPLETED AND TESTED OK
 
-### What ?
+### Description
 
 Simple scripts for downloading users public images and post info.
 
 It saves a Json file with all the data from each post (into separate JSON files)
 
-getPictures.py
+**getPictures.py**
 Python with requests and beautifulsoup
 
-getPictures2.py
+**getPictures2.py**
 Uses Instaloader library
